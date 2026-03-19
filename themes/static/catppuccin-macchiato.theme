@@ -28,3 +28,6 @@ fish_pager_color_progress 6e738d
 fish_pager_color_prefix f5bde6
 fish_pager_color_completion cad3f5
 fish_pager_color_description 6e738d
+fish_color_cwd_root ed8796
+fish_color_valid_path cad3f5
+fish_color_history_current b7bdf8

@@ -35,6 +35,9 @@ fish_pager_color_progress {{ palette.overlay0.hex }}
 fish_pager_color_prefix {{ palette.pink.hex }}
 fish_pager_color_completion {{ palette.text.hex }}
 fish_pager_color_description {{ palette.overlay0.hex }}
+fish_color_cwd_root {{ palette.red.hex }}
+fish_color_valid_path {{ palette.text.hex }}
+fish_color_history_current {{ palette.lavender.hex }}
 {%- endmacro -%}
 
 # name: 'Catppuccin {{ flavor.name }}'

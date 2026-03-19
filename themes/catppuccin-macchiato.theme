@@ -29,6 +29,9 @@ fish_pager_color_progress 9ca0b0
 fish_pager_color_prefix ea76cb
 fish_pager_color_completion 4c4f69
 fish_pager_color_description 9ca0b0
+fish_color_cwd_root d20f39
+fish_color_valid_path 4c4f69
+fish_color_history_current 7287fd
 
 [dark]
 # preferred_background: 24273a
@@ -58,6 +61,9 @@ fish_pager_color_progress 6e738d
 fish_pager_color_prefix f5bde6
 fish_pager_color_completion cad3f5
 fish_pager_color_description 6e738d
+fish_color_cwd_root ed8796
+fish_color_valid_path cad3f5
+fish_color_history_current b7bdf8
 
 [unknown]
 # preferred_background: 24273a
@@ -87,3 +93,6 @@ fish_pager_color_progress 6e738d
 fish_pager_color_prefix f5bde6
 fish_pager_color_completion cad3f5
 fish_pager_color_description 6e738d
+fish_color_cwd_root ed8796
+fish_color_valid_path cad3f5
+fish_color_history_current b7bdf8

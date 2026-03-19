@@ -28,3 +28,6 @@ fish_pager_color_progress 9ca0b0
 fish_pager_color_prefix ea76cb
 fish_pager_color_completion 4c4f69
 fish_pager_color_description 9ca0b0
+fish_color_cwd_root d20f39
+fish_color_valid_path 4c4f69
+fish_color_history_current 7287fd
